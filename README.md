@@ -17,24 +17,24 @@ A class to report scoring information.
 
 setting.py
 
-A class to store all settings for Alien Invasion
+A class to store all settings for Alien Invasion.
 
 ship.py
 
-Initialize the ship, draw the ship
+Initialize the ship, draw the ship.
 
 bullet.py
 
-A class to draw & manage bullets fired from the ship
+A class to draw & manage bullets fired from the ship.
 
 alien.py
 
-A class to represent alien in the fleet
+A class to represent alien in the fleet.
 
 button.py
 
-Initialize button attributes
+Initialize button attributes.
 
 game_stats.py
 
-Track the statistics for Alein Invasion
+Track the statistics for Alein Invasion.
